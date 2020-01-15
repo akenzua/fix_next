@@ -12,3 +12,5 @@ A react prototype of directories projects built with nodejs and express for seve
     git clone https://github.com/moneyadviceservice/isomorphic_react_prototype.git
     npm install
     npm run dev
+
+    master
