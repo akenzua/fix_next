@@ -13,10 +13,6 @@ A react prototype of directories projects built with nodejs and express for seve
 
     cd isomorphic_react_prototype
 
-    touch .gitignore
-
-    echo "node_modules" >> .gitignore
-
     npm install
     
     npm run dev
